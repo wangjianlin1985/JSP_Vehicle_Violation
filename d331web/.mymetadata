@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="d331web"
+  id="myeclipse.1490279146544"
+  context-root="/d331web"
+  j2ee-spec="5.0"
+  archive="d331web.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
